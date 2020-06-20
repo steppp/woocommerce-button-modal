@@ -8,12 +8,12 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @package           Woo_Merda
+ * @package           Woo_Survey
  *
  * @wordpress-plugin
- * Plugin Name:       WooMerda
+ * Plugin Name:       WooSurvey
  * Plugin URI:        dlsajnd
- * Description:       Una cagata pazzesca
+ * Description:       A nice plugin
  * Version:           1.0.0
  * Author:            me
  * Author URI:        das
